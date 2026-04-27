@@ -1,0 +1,17 @@
+# Packer
+packer_cache/
+manifest.json
+
+# CDK
+cdk.out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env / secrets
+.env
+
+# OS
+.DS_Store
