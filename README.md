@@ -1,4 +1,4 @@
-# aws-image-pipeline
+# AWS Image Pipeline – Golden AMI Factory
 
 Golden AMI baking pipeline for the ops-lab platform. Produces hardened,
 pre-configured AMIs using Packer and publishes AMI IDs to SSM Parameter Store
